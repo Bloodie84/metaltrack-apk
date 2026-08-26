@@ -4,12 +4,18 @@ Dépôt de distribution. Il ne contient **que les APK compilés**, aucun code so
 
 ## Installer
 
-1. Ouvrir la [dernière version](https://github.com/Bloodie84/metaltrack-apk/releases/latest)
-2. Télécharger le fichier `.apk`
-3. Autoriser l'installation depuis cette source si Android le demande
-4. Installer
+### 👉 [Télécharger Metal Track 2.3.1](https://github.com/Bloodie84/metaltrack-apk/raw/main/metal-track-2.3.1.apk)
+
+Ouvrez ce lien **depuis le téléphone**. Le fichier se télécharge, il n'y a plus
+qu'à l'ouvrir pour l'installer. Android demandera d'autoriser l'installation
+depuis cette source : c'est normal pour une application distribuée hors Play
+Store.
 
 Aucun compte GitHub n'est nécessaire.
+
+⚠️ **Si une version précédente de Metal Track est installée, la désinstaller
+d'abord.** L'identifiant de l'application a changé en 2.3.0 : Android considère
+qu'il s'agit d'une application différente et refusera la mise à jour.
 
 ## À savoir
 
