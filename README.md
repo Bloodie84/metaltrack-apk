@@ -32,3 +32,7 @@ qu'il s'agit d'une application différente et refusera la mise à jour.
 
 Fonds et calques fournis par la Géoplateforme IGN : orthophotos, Plan IGN v2,
 ombrage du MNT LiDAR HD, et carte de Cassini (IGN / Archives nationales).
+
+## Contact
+
+[Bloodie.fr](https://bloodie.fr)
